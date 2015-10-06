@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.vajro:MaterialDesignLibrary:1.3'
+	  compile 'com.github.vajro:MaterialDesignLibrary:1.5'
 }
 ```
 In your layout files, use the attribute "mRippleColor" instead of "rippleColor".
