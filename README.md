@@ -17,3 +17,5 @@ dependencies {
     compile 'com.github.vajro:MaterialDesignLibrary:1.3'
 }
 ```
+
+To know more about how to use the controls and elements, check out the <a href="https://github.com/vajro/MaterialDesignLibrary/blob/master/OriginalREADME.md">Original ReadMe file.</a>
