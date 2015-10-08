@@ -15,6 +15,6 @@ dependencies {
 	  compile 'com.github.vajro:MaterialDesignLibrary:1.6'
 }
 ```
-In your layout files, use the attribute "mRippleColor" instead of "rippleColor".
+I have modified the "rippleColor" color attribute to "mRippleColor". Hope this helps few people who faced same error as mine.
 
 To know more about how to use the controls and elements, check out the <a href="https://github.com/vajro/MaterialDesignLibrary/blob/master/OriginalREADME.md">Original ReadMe file.</a>
