@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-	  compile 'com.github.vajro:MaterialDesignLibrary:1.6'
+	        compile 'com.github.raq154:MaterialDesignLibrary:1.6'
 }
 ```
 I have modified the "rippleColor" color attribute to "mRippleColor". Hope this helps few people who faced same error as mine.
